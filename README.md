@@ -8,5 +8,7 @@ To run scrip you must have installed:
 Ofcourse Linux system based
 
 ## How run
-When you run program he will ask you about path to your file to watching. Its important to entry path to folder where is file.
+When you run program he will ask you about path to your file to watching.
+
+Its important to entry path to folder where is file.
 Thats all.
