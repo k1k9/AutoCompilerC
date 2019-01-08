@@ -3,7 +3,7 @@
 ## Requirements
 To run scrip you must have installed:
   - Python 3.6 or higher
-  - C compliator g++ version 8.2 or higher
+  - C compliator g++ version 8.2 or higher__
 Ofcourse Linux system based
 
 ## How run
